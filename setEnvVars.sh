@@ -1,3 +1,3 @@
-export GITHUB_USERNAME="<<username>>"
-export GITHUB_REPO="bootcamp-2022-sls-api-<<lastname>>"
-export BUCKET_NAME="<<username>>-bootcamp-2022-bucket" #username must be all lowercase
+export GITHUB_USERNAME="vinodghai"
+export GITHUB_REPO="bootcamp-2022-sls-api-kumar"
+export BUCKET_NAME="vinodghai-bootcamp-2022-bucket" #username must be all lowercase
